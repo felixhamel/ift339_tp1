@@ -1,4 +1,4 @@
-ift339_tp1
+IFT339 - TP1
 ==========
 
-TP1 du cours IFT339.
+Jeu du bonhomme pendu.
