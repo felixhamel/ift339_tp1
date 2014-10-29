@@ -1,4 +1,12 @@
-ift339_tp1
+IFT339 - TP1
 ==========
 
-TP1 du cours IFT339.
+Jeu du bonhomme pendu.
+
+Université de Sherbrooke - Automne 2014
+
+Contributeurs
+==========
+
+- Félix Hamel
+- Maxime Labarre
